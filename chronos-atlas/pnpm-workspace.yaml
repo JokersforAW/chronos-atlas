@@ -1,8 +1,0 @@
-packages:
-  - '.'
-enableGlobalVirtualStore: false
-storeDir: .sites-runtime/pnpm-store
-nodeLinker: hoisted
-packageImportMethod: copy
-allowBuilds:
-  esbuild: true
