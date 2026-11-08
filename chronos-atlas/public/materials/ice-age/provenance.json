@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rocky Terrain 02",
+    "asset": "rocky_terrain_02",
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/rocky_terrain_02"
+  },
+  {
+    "name": "Snow 01",
+    "asset": "snow_01",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/snow_01"
+  },
+  {
+    "name": "Rock Boulder Dry",
+    "asset": "rock_boulder_dry",
+    "authors": {
+      "Dimitrios Savva": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "license": "CC0",
+    "url": "https://polyhaven.com/a/rock_boulder_dry"
+  }
+]
